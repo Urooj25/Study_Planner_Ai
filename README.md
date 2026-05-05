@@ -1,4 +1,8 @@
 # 📚 AI Study Planner
+## 🚀 Live Demo
+👉 https://studyplannerai-dy56e6zrzlb8wsypdphb7t.streamlit.app/
+
+- Groq API
 
 An AI-powered study planning agent that creates personalized study plans based on your subjects, weak topics, and exam date.
 
